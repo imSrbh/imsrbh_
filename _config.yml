@@ -11,11 +11,12 @@ author: Saurabh Kumar Singh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Blog: ""
   About Me: "aboutme"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
